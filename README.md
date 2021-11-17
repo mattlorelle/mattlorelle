@@ -3,7 +3,7 @@
 ### 👋👋 Hi there, I'm Matt! I am a student at UF🐊🐊
 - 📱 I am currently working on a website and mobile application for my small woodworking business
 - 🍎 I am currently learning Linux, Javascript, React/React Native, and C++
-- 👀 I'm interested in web development mainly as well as object-oriented programming
+- 👀 I'm interested in mainly web development as well as object-oriented programming
 - 🤝 I'm looking to collaborate with a company through the form of an internship to gain invaluable industry experience.
 
 ### Connect with me:
