@@ -16,8 +16,23 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 [linkedin]: https://www.linkedin.com/in/matthewlorelle/
 [gmail]: https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=matthewlorelle@gmail.com
 [leetcode]: https://leetcode.com/mlorelle/
+
+vscode
+c
+c++
+java
+javascript
+react
+react native
+express
+mongodb
+node.js
+material ui
+linux
+git
+
