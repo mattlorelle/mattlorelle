@@ -1,6 +1,6 @@
 
 
-### 👋 Hi there, I'm Matt! I'm a CS student at UF🐊🐊
+### 👋👋 Hi there, I'm Matt! I am a student at UF🐊🐊
 - 📱 I am currently working on a website and designer application for my small woodworking business
 - 🍎 I am currently learning Linux, Javascript, React/React Native, and C++
 - 👀 I'm interested in web development mainly as well as machine learning/ai
