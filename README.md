@@ -3,7 +3,7 @@
 ### 👋👋 Hi there, I'm Matt! I am a student at UF🐊🐊
 - 📱 I am currently working on a mobile application to keep track of golf betting games between you and your friends
 - 🍎 I am currently learning Linux, Javascript, React/React Native, and Python
-- 👀 I'm interested in mainly web development as well as object-oriented programming/system design
+- 👀 I'm interested in object-oriented programming/system design as well as web/app development
 - 🤝 I'm looking to collaborate with a company through the form of an internship to gain invaluable industry experience.
 
 ### Connect with me:
